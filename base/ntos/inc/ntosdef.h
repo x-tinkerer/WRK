@@ -85,7 +85,7 @@ typedef struct _PP_LOOKASIDE_LIST {
 #define POOL_TAGGING 1
 
 #ifndef DBG
-#define DBG 0
+#define DBG 1
 #endif
 
 #if DBG
